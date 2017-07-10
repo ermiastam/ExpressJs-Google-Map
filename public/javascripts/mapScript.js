@@ -1,6 +1,3 @@
-/**
- * Created by gedionz on 1/26/17.
- */
 
 function initMap() {
     var latitudeValue = $("#latitudeValue").val();
